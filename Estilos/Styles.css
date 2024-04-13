@@ -1,0 +1,23 @@
+@import url(../Estilos/header.css);
+@import url(../Estilos/Introdução.css);
+@import url(../Estilos/Informações.css);
+@import url(../Estilos/Vagas.css);
+@import url(../Estilos/Falores.css);
+@import url(../Estilos/Depoimentos.css);
+@import url(../Estilos/Rodapé.css);
+
+
+:root {
+    --Cor-texto:#667085;
+    --Cor-texto2: #101828;
+    --Cor-numeros: #8E2424;
+    --Cor-bnt: #ab0707;
+    --Fonte: "Inter";
+}
+
+body {
+    font-size: 16px;
+    font-weight: 500;
+    font-family: var(--Fonte), sans-serif;
+    background-color: white;
+}

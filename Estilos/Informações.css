@@ -1,0 +1,23 @@
+.Informaçoes {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin: 6.5rem 7rem 4rem 7rem;
+}
+
+
+.Informaçoes__lista-Color {
+    color: var(--Cor-numeros);
+    font-size: 60px;
+    font-weight: 600;
+}
+
+.Informaçoes__lista-titulo {
+    color: var(--Cor-texto2);
+    font-size: 18px;
+    margin:  0.5rem 0 0.5rem 0;
+}
+
+.Informaçoes__lista-texto {
+    color: var(--Cor-texto);
+}

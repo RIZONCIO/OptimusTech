@@ -1,0 +1,66 @@
+footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 6rem 0;
+    gap: 2rem;
+}
+
+.Radapé__Textos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.25rem
+}
+
+.Rodapé__Titulo {
+    font-size: 36px;
+    font-weight: 600;
+    color: var(--Cor-texto2);
+}
+
+.Rodapé__Texto {
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--Cor-texto);
+}
+
+.Rodapé__Novidades {
+    display: flex;
+    align-items: center;
+    gap: 1em;
+}
+
+.Rodapé__Email {
+    padding: 0.75rem 10.93rem 0.75rem 1rem;
+    border-radius: 8px;
+    border: 1px solid #D0D5DD;
+    line-height: 24px;
+}
+
+.placeholder {
+    color: var(--Cor-texto);
+    font-weight: 400;
+}
+
+.Rodapé__Botao {
+    display: flex;
+    padding: 0.75rem 1.25rem;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    border-radius: 8px;
+    border: 1px solid var(--Cor-numeros);
+    background: var(--Cor-numeros);
+    color: white;
+    text-decoration: none;
+}
+
+.Rodapé__Direitos {
+    color: var(--Cor-texto);
+    font-weight: 400;
+}
+
+.Rodapé__Botao:hover{
+    background: var(--Cor-bnt);
+}

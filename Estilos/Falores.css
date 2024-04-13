@@ -1,0 +1,38 @@
+.Falores {
+    margin: 4rem 21rem 6rem 21rem;
+}
+
+.Falores__titulo {
+    font-size: 20px;
+    color: var(--Cor-texto2);
+    margin-bottom: 2rem;
+    margin-top: 4rem;
+
+}
+
+.Falores__subtitulo {
+    font-size: 18px;
+    color: #101828;
+    margin-bottom: 2rem;
+}
+
+.Falores__texto {
+    color: var(--Cor-texto);
+}
+
+.Falores__item {
+    margin-bottom: 1.5rem;
+    border: 1px solid #EAECF0;
+    border-radius: 16px;
+    padding: 1.5rem;
+}
+
+.Falores__item-texto {
+    display: flex;
+    gap: 1.5rem;
+}
+
+.Falores__item:hover {
+    transform: scale(1.1);
+    transition: 1s;
+}
