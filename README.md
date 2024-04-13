@@ -1,9 +1,11 @@
 <h1 align="center"> OptimusTech </h1>
+
 [![7DaysOfCode](https://img.shields.io/badge/7DaysOfCode-Challenge-green)](https://7daysofcode.io/matricula/html-css)
 
 ## Bem-vindo ao OptimusTech!
 
 O OptimusTech é um projeto dedicado à contratação de talentos no setor de UX/UI design, programação Front-end, Back-end e Desenvolvimento iOS. Este projeto foi desenvolvido como parte do desafio **"#7DaysOfCode - HTML e CSS"**.
+
 
 ## Sobre o Projeto
 
