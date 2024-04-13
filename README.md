@@ -1,5 +1,5 @@
 <h1 align="center"> OptimusTech </h1>
-[![7DaysOfCode](https://img.shields.io/badge/7DaysOfCode-Challenge-green)](link_para_desafio)
+[![7DaysOfCode](https://img.shields.io/badge/7DaysOfCode-Challenge-green)](https://7daysofcode.io/matricula/html-css)
 
 ## Bem-vindo ao OptimusTech!
 
